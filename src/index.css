@@ -10,7 +10,7 @@ body{
     background-color: #f8e6c6;
 }
 .main_box{
-    width: 100%;
+    width: 45%;
 }
 
 
@@ -19,4 +19,5 @@ body{
 }
 @media screen and (min-width: 270px) and (max-width: 689px) {
    .mega{margin-left: 0px;}
+   .main_box{width: 100%;}
 }
