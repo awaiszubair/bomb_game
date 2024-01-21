@@ -26,7 +26,7 @@ function App() {
 
 
   return (
-    <div style={{ marginLeft: '30rem' }}>
+    <div className='mega' >
       <h2 style={{ marginTop: '3rem', marginBottom: '2rem' }}>Steps: {steps}</h2>
       <div className='main_box' style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <div>
